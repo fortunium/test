@@ -2,7 +2,7 @@ import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
 import tensorflow as tf
 x=2
-y=3
+y=4
 z=4
 con11=tf.constant(2)
 con12=tf.constant(4)
